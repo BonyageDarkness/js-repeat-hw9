@@ -1,1 +1,1 @@
-{"version":3,"file":"index.js","sources":[],"sourcesContent":[],"names":[],"mappings":""}
+{"version":3,"file":"index.js","sources":["../src/main.js"],"sourcesContent":["console.log('first');\nconst value = 10;\nconsole.log(value);\n"],"names":["value"],"mappings":"0uBAAA,QAAQ,IAAI,OAAO,EACnB,MAAMA,EAAQ,GACd,QAAQ,IAAIA,CAAK"}
