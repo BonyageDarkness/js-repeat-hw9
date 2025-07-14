@@ -1,0 +1,1 @@
+{"version":3,"file":"2-form.js","sources":["../src/js/2-form.js"],"sourcesContent":["const formData = {\n  email: '',\n  message: '',\n};\n\nconst form = document.querySelector('.feedback-form');\nconst email = form.elements.email;\nconst message = form.elements.message;\n"],"names":["form"],"mappings":"wFAKA,MAAMA,EAAO,SAAS,cAAc,gBAAgB,EACtCA,EAAK,SAAS,MACZA,EAAK,SAAS"}
